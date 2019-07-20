@@ -1,19 +1,19 @@
 {
-    "version": "0.11.0",
+    "version": "0.12.0",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/instrumenta/kubeval/releases/download/0.11.0/kubeval-windows-386.zip",
+            "url": "https://github.com/instrumenta/kubeval/releases/download/0.12.0/kubeval-windows-386.zip",
             "bin": [
                 "kubeval.exe"
             ],
-            "hash": "274b77696d39c29252a3485ba1c982481bfac9ed4be28111aadf5a122a54488e"
+            "hash": "5c1207a719ddece105dea70de9d1d808dbc221fe3d003ec9f676086ef751c902"
         },
         "64bit": {
-            "url": "https://github.com/instrumenta/kubeval/releases/download/0.11.0/kubeval-windows-amd64.zip",
+            "url": "https://github.com/instrumenta/kubeval/releases/download/0.12.0/kubeval-windows-amd64.zip",
             "bin": [
                 "kubeval.exe"
             ],
-            "hash": "8d46d2212715135a3cc86f29b21f1fa66d3e8178227dfa82e7edc0e7be25bae6"
+            "hash": "babb8bb3f79d194084a7cd3ebb66e23b49968f9a089a800ea1bcc808ae43c52a"
         }
     },
     "homepage": "https://github.com/instrumenta/kubeval",
