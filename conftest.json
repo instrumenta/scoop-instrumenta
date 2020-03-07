@@ -1,12 +1,12 @@
 {
-    "version": "0.17.1",
+    "version": "0.18.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/instrumenta/conftest/releases/download/v0.17.1/conftest_0.17.1_Windows_x86_64.zip",
+            "url": "https://github.com/instrumenta/conftest/releases/download/v0.18.0/conftest_0.18.0_Windows_x86_64.zip",
             "bin": [
                 "conftest.exe"
             ],
-            "hash": "4c2df80420f2f148ec085bb75a8c5b92e1c665c6a041768a79924c81082527c3"
+            "hash": "bdada11567f248975256ed499864766257a519dd9089e2ef542729cfc355a146"
         }
     },
     "homepage": "https://github.com/instrumenta/conftest",
