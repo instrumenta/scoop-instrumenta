@@ -1,14 +1,14 @@
 {
-    "version": "0.18.2",
+    "version": "0.19.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/instrumenta/conftest/releases/download/v0.18.2/conftest_0.18.2_Windows_x86_64.zip",
+            "url": "https://github.com/open-policy-agent/conftest/releases/download/v0.19.0/conftest_0.19.0_Windows_x86_64.zip",
             "bin": [
                 "conftest.exe"
             ],
-            "hash": "a2b0f81bef3ab7522f038235cb8885fba548d040874efa06ec9c3b98ed33061e"
+            "hash": "0bef68192b5fb4652d91f0dbf50aa17d50de7ca207e602d11bf32d35d858d20e"
         }
     },
-    "homepage": "https://github.com/instrumenta/conftest",
+    "homepage": "https://github.com/open-policy-agent/conftest",
     "description": "Test your configuration using Open Policy Agent"
 }
