@@ -1,12 +1,12 @@
 {
-    "version": "0.21.0",
+    "version": "0.22.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/open-policy-agent/conftest/releases/download/v0.21.0/conftest_0.21.0_Windows_x86_64.zip",
+            "url": "https://github.com/open-policy-agent/conftest/releases/download/v0.22.0/conftest_0.22.0_Windows_x86_64.zip",
             "bin": [
                 "conftest.exe"
             ],
-            "hash": "a096aa0cc38b631c16a07e9b609f49bc9498939c2e899c96e47616da192611d4"
+            "hash": "24f7e16d1ce0b1fca5f2e13296b44b51fc4df00c9695f750b105fa6a694edad6"
         }
     },
     "homepage": "https://github.com/open-policy-agent/conftest",
